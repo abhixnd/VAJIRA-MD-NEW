@@ -7,7 +7,7 @@ function convertToBool(text, fault = 'true') {
 
 global.thumb = fs.readFileSync('./lib/bugs/venom.jpg')
 const BOTNAME = '𝐀𝐜𝐡𝐮𝐭𝐭𝐲💎🍉';
-const FOOTERNAME = '𝐀𝐜𝐡𝐮𝐭𝐭𝐲❤️‍🩹'🎁;
+const FOOTERNAME = '𝐀𝐜𝐡𝐮𝐭𝐭𝐲❤️‍🩹'🎁 ;
 global.owner = process.env.OWNER_NUMBER  || '919544949116' ;  // ADD YOUR NUMBER WITHOUT +
     
 module.exports = {
